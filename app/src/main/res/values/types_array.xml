@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="file_types_array">
+        
+        <item>@string/any</item>
+        <item>JPG</item>
+        <item>PNG</item>
+        <item>GIF</item>
+        <item>BMP</item>
+
+    </string-array>
+</resources>
