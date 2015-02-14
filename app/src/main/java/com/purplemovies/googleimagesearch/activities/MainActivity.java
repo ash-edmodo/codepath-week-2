@@ -95,7 +95,6 @@ public class MainActivity extends ActionBarActivity {
     }
 
     private void customLoadMoreDataFromApi(int page) {
-        Toast.makeText(this, "page " + String.valueOf(page), Toast.LENGTH_LONG).show();
         requestImagesPage(page);
     }
 
