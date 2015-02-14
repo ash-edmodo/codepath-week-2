@@ -1,7 +1,8 @@
-# Codepath Week 2 #
+# Codepath Week 2 : Google Image Search Client #
+
+Time spent: 10-15 hours.
 
 User Stories:
-
 
 The following user stories must be completed:
 
@@ -41,3 +42,10 @@ The following advanced user stories are optional:
 [ ] Bonus: Use the StaggeredGridView to display improve the grid of image results
 
 [ ] Bonus: User can zoom or pan images displayed in full-screen detail view
+
+
+Walk Through 1
+--------------
+![Video Walkthrough](https://raw.githubusercontent.com/ash-edmodo/codepath-week-2/master/walkthrough1.gif)
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
